@@ -1,0 +1,9 @@
+pip
+numpy
+pandas
+sklearn
+imblearn
+tensorflow-gpu
+tensorflow_addons
+matplotlib
+tqdm
