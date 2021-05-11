@@ -14,13 +14,13 @@
 
 2. 输出(两类多标签) 例如："4,1 2"
 
-   a. 异常区域(region)，17 类 例如： "4,1"
-   b. 异常类别(type)，12 类 例如："2"
+   1. 异常区域(region)，17 类 例如： "4,1"
+   2. 异常类别(type)，12 类 例如："2"
 
 3. 评估标准
 
-   a. 异常区域(region) mlogloss
-   b. 异常类别(type) 删除无异常数据后的 mlogloss
+   1. 异常区域(region) mlogloss
+   2. 异常类别(type) 删除无异常数据后的 mlogloss
 
 ## 模型
 
