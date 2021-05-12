@@ -101,7 +101,7 @@ ________________________________________________________________________________
 
 比赛群里很多选手对生成镜像有些陌生，所以这里提供一个操作方便的镜像生成方式
 
-1. 在 basic_image 目录下运行 "docker build" 命令创建基础镜像 "myimage/tensorflow-gpu:basic"
+1. 在 basic_image 目录下运行 "docker build" 命令创建基础镜像 "myimage/tensorflow-gpu:basic" ==（仅需一次）==
 
 ```shell
 cd basic_image
